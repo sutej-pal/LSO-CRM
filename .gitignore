@@ -1,0 +1,9 @@
+node_modules
+public/uploads/*
+!public/uploads/images
+public/uploads/images/*
+!public/uploads/files
+public/uploads/files/*
+.env
+storage/*
+.idea
